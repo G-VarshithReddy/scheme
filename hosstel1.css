@@ -1,0 +1,24 @@
+.logo{
+    width:80px;
+    height:80px;
+    padding:5px;
+}
+.first{
+    background-color: rgb(83, 164, 235);
+    width:1300px;
+    height:100px;  
+
+}
+.tag{
+    color:azure;
+    position:sticky;
+    position:relative;
+    margin-left:450px;
+    top:-30px;
+    font-size:30px;  
+}
+.back{
+    position:sticky;
+    width:1300px;
+    height:800px;
+}

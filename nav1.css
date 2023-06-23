@@ -1,0 +1,14 @@
+.back{
+    background-image:url("photo-1581078426770-6d336e5de7bf.avif");
+    height:100vh;
+    background-size:cover;
+}
+
+.siz{
+    height:80px;
+    width:80px
+}
+
+.bol{
+    font-weight:bold;
+}

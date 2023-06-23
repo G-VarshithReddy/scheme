@@ -1,0 +1,62 @@
+.logo{
+    width:80px;
+    height:80px;
+    padding:5px;
+}
+.first{
+    background-color: rgb(83, 164, 235);
+    width:1300px;
+    height:100px;  
+
+}
+.tag{
+    color:azure;
+    position:sticky;
+    position:relative;
+    margin-left:450px;
+    top:-30px;
+    font-size:30px;  
+}
+.caption{
+    color: rgb(251, 94, 230);
+    margin-left:350px;
+}
+.boxes{
+    width:300px;
+    height:500px;
+    margin-left:25px;
+    background-color:antiquewhite;
+
+}
+.student{
+    width:300px;
+    height:500px;
+    margin-left:25px;
+    background-color:antiquewhite;
+    position:relative;
+    
+}
+.warden{
+    width:300px;
+    height:500px;
+    margin-left:350px;
+    background-color:antiquewhite;
+    position:relative;
+    top:-500px;
+    
+}
+.faculty{
+    width:300px;
+    height:500px;
+    margin-left:700px;
+    background-color:antiquewhite;
+    position:relative;
+    top:-1000px;
+    
+}
+.slogo{
+    width:200px;
+    height:200px;
+    position:relative;
+    top:250px;
+}
